@@ -1,0 +1,3 @@
+yc_cloud_id                 = "your_cloud_id"
+yc_folder_id                = "your_folder_id"
+yc_region                   = "yc_region_id"

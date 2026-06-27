@@ -1,0 +1,24 @@
+# Local .terraform directories and files
+**/.terraform/*
+.terraform*
+
+!.terraformrc
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# tfplan files
+*tfplan
+# tfout files
+*tfout
+
+# own secret vars store.
+personal.auto.tfvars
+terraform.tfvars
+
+# personal ansible inventory file
+hosts.ini
+
+# image file
+image.png
